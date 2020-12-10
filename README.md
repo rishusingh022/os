@@ -24,15 +24,3 @@ This is a friendly handbook which is useful for familiarizing yourself with the 
 ### :point_right: TODO List
 - Add examples through images. 
 - Add proper tables and fix code segments
-
-### :point_right: Contributor
-- [Elvis Saravia](http://elvissaravia.com)
-- Email: ellfae@gmail.com
-
-### :point_right: Potential book cover
-![alt-text-1](https://github.com/omarsar/omarsar.github.io/blob/master/images/os.png?raw=true)
-
-### :point_right: More from "The Bit Series"
-![alt-text-2](https://github.com/omarsar/omarsar.github.io/blob/master/images/machine-learning.png?raw=true)
-
-- [Machine Learning: A Friendly Handbook](https://github.com/omarsar/machine_learning_fundamentals)
